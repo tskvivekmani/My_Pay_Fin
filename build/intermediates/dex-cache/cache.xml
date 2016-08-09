@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Vivekmani TSK\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_2b497ba4593ac542fecafdadae1cf4657f4b4d9b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\exploded-aar\com.paypal.android.sdk\paypal-one-touch\2.3.6\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3dbcd23db356048cc5aaea2a08047532246cc766">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.paypal.android.sdk-paypal-one-touch-2.3.6_b085b137da647047dc4ac04e8fb8dbc1387803bf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\exploded-aar\com.braintreepayments\card-form\2.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c5a838f4c5f0ff593dcf0b8285263d04cc756ddb">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.braintreepayments-card-form-2.3.1_0cf611296918085f202386df9c6a6b93320886cb\classes.dex" />
+    </item>
+    <item
+        jar="D:\SDK1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_392493e66c5fed99e020612a49429315a0a9d38f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="744a4b394a9a7db8a4c4680836d8544802a9cd64">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.journeyapps-zxing-android-embedded-3.0.2_8c4e9a94a78599cf9b1463056789df40a3e4c144\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.11_4709495032a7aa9e52b6af90d3232ae0bd13d7cd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_49e9187adce70f7ceffbc570f1d229a5de9f8857\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c5e7cc8a2f7ef92e61ffc80f1148b4df21e7e8ef">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_64a2db04a78a8f15d61704d093596cf5dc45955b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="fbdcd9e8cb1de5ea39c4515da94961e2873f3d24">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_805937dcd68b392fdad7a93c13c9577c80e631be\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.3.1_68021bb87654204b511ab44d2b01323d7a599bb1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\libs\additionnal.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_c2ab262967e6b4be2928ca6e355b3796a517bcdb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_e150f4876f155eb228095d911f8aabc35585350c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_5a0ae45f0b4a0e300a6a69f6018461278e79ad0f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\exploded-aar\com.braintreepayments.api\drop-in\2.3.6\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0f33828fc0bfbd3edc6fe4503607505c8b9cb2f3">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.braintreepayments.api-drop-in-2.3.6_c5ed45517e4c3abb90c55f46caf65123d2f492fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_cd427a9c589f209faed35c15d6fe3b0ba5e69ccb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_e4b339d54ef213d41e782ed17c8a4977dde3f4b1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\exploded-aar\com.braintreepayments.api\braintree\2.3.6\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="31a338976f260e564e52c204a585cd761dc7ce9e">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.braintreepayments.api-braintree-2.3.6_675773c08b84809994d915c6b8d9f62bcfd91df4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\libs\mail.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_0df0287afea319b941d30625d42afe0fabcf07f4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_e76689fef87dbf9297324a79aa11940530b6eb11\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.3.1_5c136c6a08f3cae3acee9dce2330c1df9a06f06d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_6addd5eab224595dfb93367624f41bccd7001b98\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.0_72c95345f8dc1d9f0d4a6c501a44c7a28f5badc4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\exploded-aar\com.braintreepayments.api\core\2.3.6\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c6f261863b44b9b23bfad8ee915ac02d032e6525">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.braintreepayments.api-core-2.3.6_2b77d6d584c9a4694efa672551163c2968d30aae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\libs\activation.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_341fe4eda68b36b7dd9a6d931e43a53d72c3b1a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vivekmani TSK\.gradle\caches\modules-2\files-2.1\com.paypal.android.sdk\data-collector\2.3.6\1a0e2e9305e636c80cb9a5baf723938b5048d196\data-collector-2.3.6.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1a0e2e9305e636c80cb9a5baf723938b5048d196">
+        <dex dex="C:\Users\Vivekmani TSK\Downloads\MyPay-20160809T154208Z\MyPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\data-collector-2.3.6_755e8249f971c501f29874bcd5fce2810ab11e68\classes.dex" />
+    </item>
+
+</items>
